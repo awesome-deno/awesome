@@ -3,13 +3,15 @@
 
 > A curated list of awesome Deno frameworks, libraries, resources, tools and articles https://github.com/denoland/deno
 
-- [Resources](#resources)
+- [Resources](#Resources)
     - [Official Resources](#official-resources)
     - [External Resources](#external-resources)
 
-- [Libraries](#libraries)
+- [Libraries](#Libraries)
 
-- [Tools](#tools)
+- [Tools](#Tools)
+
+- [Presentations](#Presentations)
 
 - [Articles](#Articles)
 
@@ -21,8 +23,11 @@
 - [Documentation](https://github.com/denoland/deno/blob/master/Docs.md)
 - [API Reference](https://deno.land/typedoc/index.html)
 - [Deno Standard Modules](https://github.com/denoland/deno_std)
+- [Deno Registry](http://deno.land/x/)
 
 ### External Resources
+- [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide)
+- [V8 Docs for Deno](https://denolib.github.io/v8-docs)
 - [https://deno.js.cn/](https://deno.js.cn/)
 
 # Libraries
@@ -51,6 +56,7 @@
 - [path](https://github.com/denoland/deno_std/tree/master/path) - Deno Path Manipulation Libraries.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [watch](https://github.com/jinjor/deno-playground/tree/master/watch) - A file watcher.
+- [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 
 # Tools
 
@@ -60,6 +66,13 @@
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project. 
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager - Easy way to manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+
+# Presentations
+
+- [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+    - [Slides](http://tinyclouds.org/jsconf2018.pdf)
+- [JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE)
+    - [Slides](https://tinyclouds.org/deno_jsdc.pptx)
 
 
 # Articles
