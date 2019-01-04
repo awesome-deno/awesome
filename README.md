@@ -17,8 +17,10 @@
 
 ### Official Resources
 - [https://deno.land/](https://deno.land/)
-- [Deno install](https://github.com/denoland/deno_install)
-- [Deno standard modules](https://github.com/denoland/deno_std)
+- [Deno Install](https://github.com/denoland/deno_install)
+- [Documentation](https://github.com/denoland/deno/blob/master/Docs.md)
+- [API Reference](https://deno.land/typedoc/index.html)
+- [Deno Standard Modules](https://github.com/denoland/deno_std)
 
 ### External Resources
 - [https://deno.js.cn/](https://deno.js.cn/)
