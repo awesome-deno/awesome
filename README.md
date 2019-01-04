@@ -1,7 +1,7 @@
 # deno awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 
-> A curated list of awesome things related to [Deno](https://github.com/denoland/deno)
+> A curated list of awesome Deno frameworks, libraries, resources, tools and articles https://github.com/denoland/deno
 
 - [Resources](#resources)
     - [Official Resources](#official-resources)
