@@ -40,17 +40,17 @@
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - Deno XML parser ported from segmentio/xml-parser.
 - [deno-yaml](https://github.com/muhibbudins/deno-yaml) - Simple Yaml Parser using Deno.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
+- [detest](https://github.com/ncphillips/detest) - A Deno Testing Library.
 - [expressive](https://github.com/jinjor/deno-playground/tree/master/expressive) - An express-like web app framework.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) - Command line arguments parser for Deno based on minimist.
 - [logging](https://github.com/denoland/deno_std/tree/master/logging) - Logging module for Deno.
+- [left-pad](https://github.com/awesome-deno/left-pad) - String left pad.
 - [ms](https://github.com/denolib/ms) - easily convert various time formats to milliseconds.
 - [net](https://github.com/denoland/deno_std/tree/master/net) - A networking library including a file server.
 - [oak](https://github.com/kitsonk/oak) - A middleware framework for Deno's net server.
 - [path](https://github.com/denoland/deno_std/tree/master/path) - Deno Path Manipulation Libraries.
 - [qs](https://github.com/denolib/qs) - A querystring parser with nesting support.
 - [watch](https://github.com/jinjor/deno-playground/tree/master/watch) - A file watcher.
-- [left-pad](https://github.com/awesome-deno/left-pad) - String left pad.
-- [detest](https://github.com/ncphillips/detest) - A Deno Testing Library.
 
 # Tools
 
@@ -58,6 +58,7 @@
 - [denoget](https://github.com/syumai/deno-libs/tree/master/denoget) - denoget installs executable deno script.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project. 
+- [dvm](https://github.com/justjavac/dvm) - Deno Version Manager - Easy way to manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 
 
