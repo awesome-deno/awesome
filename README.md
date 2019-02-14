@@ -67,6 +67,7 @@
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager - Easy way to manage multiple active deno versions.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 - [deno-docker](https://github.com/maxmcd/deno-docker) - Dockerfiles for Deno https://hub.docker.com/r/maxmcd/deno.
+- [cdeno](https://www.cdeno.org) - A CDN for deno. Discover and publish versioned and immutable deno modules. 
 
 # Presentations
 
