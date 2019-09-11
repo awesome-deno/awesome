@@ -78,7 +78,6 @@
 - [JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE)
   - [Slides](https://tinyclouds.org/deno_jsdc.pptx)
 
-
 ## Articles
 
 - [Design Mistakes in Node](http://tinyclouds.org/jsconf2018.pdf)
@@ -86,3 +85,5 @@
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 
 - [A Guide to Deno Core (Design & For Contributors)](https://denolib.gitbook.io/guide)
+
+- [A Deno guide for Node.js developers](https://github.com/egoist/node-vs-deno)
