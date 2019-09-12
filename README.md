@@ -24,6 +24,7 @@
 - [API Reference](https://deno.land/typedoc/index.html)
 - [Deno Standard Modules](https://github.com/denoland/deno_std)
 - [Deno Registry](http://deno.land/x/)
+- [Deno Manual](https://deno.land/manual.html)
 
 ### External Resources
 
